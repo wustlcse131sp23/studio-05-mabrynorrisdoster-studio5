@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"studio5","c":"MethodsTestSuite","l":"MethodsTestSuite()","u":"%3Cinit%3E()"}];updateSearchResults();
